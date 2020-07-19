@@ -37,3 +37,14 @@ h1.header {
 	background: rgba(25, 25, 255, .5);
 
 }
+
+.pageItem{
+
+background-color: rgba(5, 5, 5, .5);
+	padding: 20px;
+	max-width: 600px;
+	margin: auto;
+	margin-top: 25px;
+	transition:all 0.3s ease-in-out;
+
+}
