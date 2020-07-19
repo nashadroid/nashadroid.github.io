@@ -1,0 +1,39 @@
+/*	Copyright 2020 Nashad Rahman
+	You may use this site, its theme, or stylesheet with the permission of the creator. ---->
+*/
+
+body {
+
+	//background-color: #cccccc;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	font-size: 1.5em;
+	font-family:sans-serif;
+
+}
+/*
+<style>
+@import 'https://fonts.googleapis.com/css?family=Roboto:300';
+</style>
+*/
+/******TOP HEADER******/
+
+h1.header {
+
+	margin: auto;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	font-size: 2.5em;
+	border: 2px solid rgba(0, 0, 0, .6);
+	border-bottom: none;
+	background: rgba(0, 0, 255, 0.3);
+	max-width: 900px;
+	overflow: hidden;
+}
+
+//h1.header:hover {
+
+	background: rgba(25, 25, 255, .5);
+
+}
