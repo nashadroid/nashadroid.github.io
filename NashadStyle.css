@@ -33,7 +33,6 @@ p{
 	font-family:sans-serif;
 	color: white;
 	text-align: center;
-	font-size: 8 px;
     max-width: 550px;
     margin: auto;
 
@@ -58,7 +57,7 @@ p.itemSubtitle{
 p.itemDescription{
     text-align: left;
     text-indent: 2em;
-    font-size: 16px;
+    font-size: 120%;
 }
 
 .pageItem{
