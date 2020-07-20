@@ -57,7 +57,7 @@ p.itemSubtitle{
 p.itemDescription{
     text-align: left;
     text-indent: 2em;
-    font-size: 120%;
+    //font-size: 100%;
 }
 
 .pageItem{
