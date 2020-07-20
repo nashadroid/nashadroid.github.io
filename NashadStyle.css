@@ -33,8 +33,8 @@ p{
 	font-family:sans-serif;
 	color: white;
 	text-align: center;
-	font-size: 1em;
-    max-width: 600px;
+	font-size: 8 px;
+    max-width: 550px;
     margin: auto;
 
 	transition:all 0.3s ease-in-out;
@@ -48,10 +48,17 @@ p.itemTitle{
     padding: 0em;
 }
 
+p.itemSubtitle{
+    text-align: center;
+    font-size: 1em;
+    text-indent: 2em;
+    font-style: italic;
+}
+
 p.itemDescription{
     text-align: left;
-    font-size: 0.7em;
     text-indent: 2em;
+    font-size: 16px;
 }
 
 .pageItem{
