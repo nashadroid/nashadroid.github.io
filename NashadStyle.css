@@ -56,9 +56,9 @@ p.itemDescription{
 
 .pageItem{
 
-    background-color: rgba(25, 25, 25, .5);
+    background-color: rgba(25, 25, 25, .8);
 	padding: 1em;
-	box-shadow: 0 0 .4em white;
+	box-shadow: 0 0 .7em white;
 	max-width: 600px;
 	margin: auto;
 	margin-top: 25px;
@@ -75,4 +75,5 @@ p.images{
     align="middle"
 	width:20%;
 	height:20%;
+	padding: 1em;
 }
