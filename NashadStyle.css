@@ -79,7 +79,7 @@ p.itemDescription{
 
 p.images{
     align="middle";
-    //text-align: center;
+    text-align: center;
 	width:20%;
 	height:20%;
 	padding: 1em;
