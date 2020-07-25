@@ -78,8 +78,8 @@ p.itemDescription{
 }
 
 p.images{
-    //align="middle";
-    text-align: center;
+    align="middle";
+    //text-align: center;
 	width:20%;
 	height:20%;
 	padding: 1em;
