@@ -32,7 +32,6 @@ h1.header {
 p{
 	font-family:sans-serif;
 	color: white;
-	text-align: left;
     max-width: 800px;
     margin: auto;
 
@@ -60,7 +59,15 @@ p.itemDescription{
     //font-size: 100%;
 }
 
+p.images{
+    alignment: "center";
+	width:20%;
+	height:20%;
+	padding: 1em;
+}
+
 .pageItem{
+    text-align: center;
 
     background-color: rgba(25, 25, 25, .8);
 	padding: 1em;
@@ -74,14 +81,14 @@ p.itemDescription{
 	border: 2px solid rgba(250, 250, 250, 1);
 
 }
-
-p.images{
-    align="left";
-    text-align: left;
-	width:20%;
-	height:20%;
-	padding: 1em;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
+
 
 ul{
 font-family:sans-serif;
