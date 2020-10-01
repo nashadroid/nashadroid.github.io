@@ -88,7 +88,10 @@ p.images{
   width: 50%;
 }
 
-
+img{
+  margin-left: auto;
+  margin-right: auto;
+}
 
 ul{
 font-family:sans-serif;
