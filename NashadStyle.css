@@ -29,6 +29,10 @@ h1.header {
 	transition:all 0.3s ease-in-out;
 }
 
+a{
+    text-decoration: none; 
+} 
+
 p{
 	font-family:sans-serif;
 	color: white;
