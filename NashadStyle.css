@@ -57,7 +57,7 @@ p.itemSubtitle{
 p.itemDescription{
     text-align: left;
     text-indent: 1vh;
-    //font-size: 100%;
+    font-size: 70%;
 }
 
 p.images{
@@ -71,7 +71,7 @@ p.images{
     text-align: center;
 
     background-color: rgba(25, 25, 25, .8);
-	padding: 1em;
+	padding: 2vmin;
 	box-shadow: 0 0 .7vh white;
 	max-width: 95vmin;
 	margin: auto;
