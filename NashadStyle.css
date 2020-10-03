@@ -49,6 +49,11 @@ p.itemTitle{
     padding: 0em;
 }
 
+p.subtitle{
+    text-align: center;
+    font-style: italic;
+}
+
 p.itemSubtitle{
     text-align: center;
     font-style: italic;
